@@ -5,5 +5,6 @@ class testing
 		System.out.println("I want to say such word as ");
 		System.out.println("TEST");
 		System.out.println("OMG, I forgot to say Hello, sorry.");
+		System.out.println("TEST");
 	}
 }
