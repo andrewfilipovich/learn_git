@@ -1,2 +1,2 @@
 # learn_git
-i try to learn commanвы to work with git
+i try to learn commands to work with git
