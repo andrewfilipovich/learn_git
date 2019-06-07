@@ -4,6 +4,6 @@ class hello_world
 	{
 		System.out.println("Hello World!");
 		System.out.println("Have a good one, developer;).");
-		System.out.println("Goodbye!");
+		System.out.println("G-d-bye!");
 	}
 }
