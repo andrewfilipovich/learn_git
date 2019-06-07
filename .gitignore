@@ -1,6 +1,5 @@
 *.[ao]
 *.~
-src/
 out/
 .idea/
 src.iml
